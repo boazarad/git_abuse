@@ -9,3 +9,6 @@ Add the macros in `.bashrc` to your own `~/.bashrc` and become the bane of your 
 
 <pre>$> did "something"</pre>
 Why waste time commiting individual files? `did` will commit all changes on the current branch and push them upstream. Push where? wherever `git push` decides to, of course! it's probably configured correctly...
+<pre>$> oops</pre>
+Made a boo-boo? quickly revert the previous commit.<br>
+Apply repetetively for multiple boo-boos.
