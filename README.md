@@ -12,3 +12,6 @@ Why waste time commiting individual files? `did` will commit all changes on the 
 <pre>$> oops</pre>
 Made a boo-boo? quickly revert the previous commit.<br>
 Apply repetetively for multiple boo-boos.
+
+<pre>$> gulp</pre>
+Got untracked files in your repo? not anymore you don't!<br>
