@@ -9,3 +9,5 @@ gulp() {
   git commit -m "added untracked files"
   git push
 }
+
+alias vroom="git pull origin master --no-edit"
