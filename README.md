@@ -31,4 +31,10 @@ git add *
 git commit -m "added untracked files"
 git push
 ```
+### $> vroom
+Time to get those sweet, sweet, updates from the master branch<br>
+(no need to worry about pesky merge comments, of course ;)<br>
+```bash
+git pull origin master --no-edit
+```
 
